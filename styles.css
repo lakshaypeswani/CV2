@@ -1,0 +1,198 @@
+/******************************TAGS*********************************/
+a
+{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
+a:hover
+{
+    color: #EAF6F6;
+}
+body
+{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin: auto 0 0 0;
+
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+    border-color: #D3D3D3;
+}
+h1
+{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 200%;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p
+{
+    color: #40514E;;
+}
+
+
+/***************************CLASSES********************************/
+.abovecm
+{
+    margin: 0 auto 70px auto;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 250px;
+    bottom: 400px;
+}
+.contact
+{
+    margin: 50px auto 50px auto;
+}
+.et
+{
+    padding: 0 220px 10px;
+    color: #11999E;
+}
+.education
+{
+    margin: 50px auto 50px auto;
+}
+.edu-tab
+{
+    padding-top: 50px;
+}
+.footer
+{
+    margin: 70px auto 0 auto;
+    background-color: #66BFBF;
+    padding: 50px 0 30px ;
+}
+.ft
+{
+    color: #EAF6F6;
+    margin: 70px 0 20px;
+}
+.hobbies
+{
+    margin: 50px auto 50px auto;
+}
+.hobtab
+{
+    margin: 80px auto 80px auto;
+}
+.ht
+{
+    padding: 0 35px 0;
+}
+.introline
+{
+    width: 30%;
+    margin: 10px auto 40px auto;
+    line-height: 2;
+}
+.mypfp
+{
+    padding-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+.name
+{
+    font-size: 5.625rem;
+    margin-top: 75px auto 0 auto;
+    position: relative;
+    top: 30px;
+}
+.prog
+{
+    font-size: 2rem;
+}
+.profile
+{
+    margin: 50px auto 50px auto;
+}
+.skills
+{
+    margin: 50px auto 50px auto;
+}
+.skill-row-1
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row-2
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-img-1
+{
+    float: left;
+    padding-right: 25px;
+    margin-bottom: 10px;
+    
+}
+.skill-img-2
+{
+    float: right;
+    padding-left: 25px;
+    margin-top: 10px;
+    
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top-container
+{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 25px;
+}
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
